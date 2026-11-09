@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T12:38:25.575Z",
+  "updated": "2026-11-09T12:38:39.267Z",
   "apps": [
     {
       "id": "whatsapp",
@@ -75,8 +75,8 @@
       "id": "reolink",
       "name": "Reolink Camera",
       "label": "Doorbell",
-      "version": "1.0.0",
-      "description": "A quick peek at a Reolink camera or doorbell on your home network. Log in once and it stays logged in.",
+      "version": "1.0.1",
+      "description": "A quick peek at a Reolink camera or doorbell on your home network. Log in once and it stays logged in. Right-click its button for the full camera controls.",
       "setup": [
         {
           "key": "host",
