@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T14:07:13.265Z",
+  "updated": "2026-11-16T14:07:25.965Z",
   "apps": [
     {
       "id": "whatsapp",
@@ -140,7 +140,7 @@
       "id": "reolink",
       "name": "Reolink Camera",
       "label": "Doorbell",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "description": "A quick peek at a Reolink camera or doorbell on your home network. It pops up by itself when someone is at the door (you can turn that off in its settings). Log in once and it stays logged in. Right-click its button for the full camera controls.",
       "setup": [
         {
